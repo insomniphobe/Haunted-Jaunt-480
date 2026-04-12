@@ -17,4 +17,4 @@ Lerp: When you walk over / away from the radio in the main room, the radio volum
 
 Dot Product:
 
-Particles: 
+Particles: Added a music note particle system that emits from the radio next to the spawn area.
